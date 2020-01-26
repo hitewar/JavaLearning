@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author affine
+ *
+ */
+module testProject {
+}
